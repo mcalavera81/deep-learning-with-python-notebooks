@@ -1,1 +1,7 @@
 .ipynb_checkpoints
+.ipython
+.jupyter
+.keras
+cats_and_dogs_small
+kaggle_original_data
+.local

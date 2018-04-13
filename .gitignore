@@ -7,3 +7,4 @@ kaggle_original_data
 .local
 glove.6B
 aclImdb
+.cache
